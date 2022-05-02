@@ -52,5 +52,5 @@ Obtained from the 1987 Baseball Encyclopedia Update.
  # Conclusion
  
  Using the Linear Regression model, the cross validation score 175 was obtained. There was compelling loss in the data set with the deletion of outliers and Null 
- dependent variables. Outlier limits are lowered and the total number of data in the dataset is increased. However, since linear regression is highly affected by  
+ dependent variables. Outlier limits are lowered and the total number of data in the dataset is increased. However, since linear regression is highly affected by   
  outliers, the model has a higher score.
